@@ -1,0 +1,74 @@
+C:\Users\leyla\source\repos\Finaly_project\bin\Debug\net6.0-windows\Finaly_project.exe
+C:\Users\leyla\source\repos\Finaly_project\bin\Debug\net6.0-windows\Finaly_project.deps.json
+C:\Users\leyla\source\repos\Finaly_project\bin\Debug\net6.0-windows\Finaly_project.runtimeconfig.json
+C:\Users\leyla\source\repos\Finaly_project\bin\Debug\net6.0-windows\Finaly_project.dll
+C:\Users\leyla\source\repos\Finaly_project\bin\Debug\net6.0-windows\Finaly_project.pdb
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.csproj.AssemblyReference.cache
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Finaly_project_MarkupCompile.cache
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Finaly_project_MarkupCompile.lref
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.g.resources
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.AssemblyInfoInputs.cache
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.AssemblyInfo.cs
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.csproj.CoreCompileInputs.cache
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.dll
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\refint\Finaly_project.dll
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.pdb
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.genruntimeconfig.cache
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\ref\Finaly_project.dll
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Register.g.cs
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Register.baml
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Panel.g.cs
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Panel.baml
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Add_Book.g.cs
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Add_Book.baml
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Book_Read.g.cs
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Book_Read.baml
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Petter_Pan.g.cs
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Petter_Pan.baml
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Harry_Potter.g.cs
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\Harry_Potter.baml
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\List_of_book.g.cs
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\List_of_book.baml
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\About_Library.g.cs
+C:\Users\leyla\source\repos\Finaly_project\obj\Debug\net6.0-windows\About_Library.baml
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\bin\Debug\net6.0-windows\Finaly_project.exe
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\bin\Debug\net6.0-windows\Finaly_project.deps.json
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\bin\Debug\net6.0-windows\Finaly_project.runtimeconfig.json
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\bin\Debug\net6.0-windows\Finaly_project.dll
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\bin\Debug\net6.0-windows\Finaly_project.pdb
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.csproj.AssemblyReference.cache
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\About_Library.g.cs
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Add_Book.g.cs
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Book_Read.g.cs
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Harry_Potter.g.cs
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\List_of_book.g.cs
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Panel.g.cs
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Petter_Pan.g.cs
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Register.g.cs
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Finaly_project_MarkupCompile.cache
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Finaly_project_MarkupCompile.lref
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\About_Library.baml
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Add_Book.baml
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Book_Read.baml
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Harry_Potter.baml
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\List_of_book.baml
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Panel.baml
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Petter_Pan.baml
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Register.baml
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.g.resources
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.AssemblyInfoInputs.cache
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.AssemblyInfo.cs
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.csproj.CoreCompileInputs.cache
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.dll
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\refint\Finaly_project.dll
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.pdb
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\Finaly_project.genruntimeconfig.cache
+C:\Users\leyla\OneDrive\Рабочий стол\Finaly_project\obj\Debug\net6.0-windows\ref\Finaly_project.dll

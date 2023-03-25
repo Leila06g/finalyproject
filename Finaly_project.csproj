@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\about_library.jpg" />
+    <None Remove="Images\ADD.jpg" />
+    <None Remove="Images\add_b.png" />
+    <None Remove="Images\book_Read.jpg" />
+    <None Remove="Images\exit.png" />
+    <None Remove="Images\Harry_Potter.jpg" />
+    <None Remove="Images\icons8-bookmark-book-64.png" />
+    <None Remove="Images\icons8-books-50.png" />
+    <None Remove="Images\library_b.jpg" />
+    <None Remove="Images\Petter_Pan__Read.jpg" />
+    <None Remove="Images\Register.jpg" />
+    <None Remove="Images\search.png" />
+    <None Remove="Images\search_book.jpg" />
+    <None Remove="Images\SIgnBackground.jpg" />
+    <None Remove="Sign_upBackground.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\about_library.jpg" />
+    <Resource Include="Images\ADD.jpg" />
+    <Resource Include="Images\add_b.png" />
+    <Resource Include="Images\book_Read.jpg" />
+    <Resource Include="Images\exit.png" />
+    <Resource Include="Images\Harry_Potter.jpg" />
+    <Resource Include="Images\icons8-bookmark-book-64.png" />
+    <Resource Include="Images\icons8-books-50.png" />
+    <Resource Include="Images\library_b.jpg" />
+    <Resource Include="Images\Petter_Pan__Read.jpg" />
+    <Resource Include="Images\Register.jpg" />
+    <Resource Include="Images\search.png" />
+    <Resource Include="Images\search_book.jpg" />
+    <Resource Include="Images\SIgnBackground.jpg" />
+  </ItemGroup>
+
+</Project>

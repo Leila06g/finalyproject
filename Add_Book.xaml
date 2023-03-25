@@ -1,0 +1,53 @@
+﻿<Window x:Class="Finaly_project.Add_Book"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Finaly_project"
+        mc:Ignorable="d"
+        Title="Add_Book" Height="500" Width="776">
+
+    <Border CornerRadius="10">
+
+        <Border.Background>
+            <ImageBrush ImageSource="/Images/ADD.jpg"
+                        Stretch="Fill"/>
+        </Border.Background>
+        <Border CornerRadius="10"
+                BorderThickness="1"
+                Opacity="0.95" Margin="0,0,503,0">
+
+                <StackPanel Margin="388,14,-498,0" Grid.RowSpan="3">
+
+                    <TextBlock  Text="Add Book" Margin="0,20,0,0"  FontSize="25"  FontWeight="Bold"  FontFamily="Calibri Bold"/>
+
+                    <TextBlock  Text="Book name" FontSize="13" FontWeight="Bold" Margin="0,50,0,0"/>
+                    <TextBox  x:Name="book_name" FontSize="15" CaretBrush="LightGray" BorderBrush="DarkGray" FontFamily="Calibri Bold" FontWeight="Bold" BorderThickness="0,0,0,1" Margin="130,-17,30,10"/>
+
+                   <TextBlock  Text="Book Author Name" FontSize="13" FontWeight="Bold" Margin="0,10,0,0"/>
+                   <TextBox  x:Name="book_author" FontSize="15" FontFamily="Calibri Bold" CaretBrush="LightGray" BorderBrush="DarkGray" FontWeight="Bold" BorderThickness="0,0,0,1" Margin="130,-17,30,10"/>
+                  
+                    <TextBlock  Text="Book Genre" FontSize="13" FontWeight="Bold" Margin="0,10,0,0"/>
+                    <TextBox  x:Name="book_genre" FontSize="15" FontFamily="Calibri Bold" CaretBrush="LightGray" BorderBrush="DarkGray" FontWeight="Bold" BorderThickness="0,0,0,1" Margin="130,-17,30,10"/>
+                
+                    <TextBlock  Text="Book Language" FontSize="13" FontWeight="Bold" Margin="0,10,0,0"/>
+                    <TextBox  x:Name="book_language" FontSize="15" FontFamily="Calibri Bold" CaretBrush="LightGray" BorderBrush="DarkGray" FontWeight="Bold" BorderThickness="0,0,0,1" Margin="130,-17,30,10"/>
+
+                    <TextBlock  Text="Book Count" FontSize="13" FontWeight="Bold" Margin="0,10,0,0"/>
+                    <TextBox  x:Name="book_count" FontSize="15" FontFamily="Calibri Bold" CaretBrush="LightGray" BorderBrush="DarkGray" FontWeight="Bold" BorderThickness="0,0,0,1" Margin="130,-17,30,10"/>
+
+
+                <Button x:Name="Add_book" Background="LightCyan"  Content="Add Book" BorderThickness="0,0,0,1" FontSize="16" Margin="0,40,200,0"  Foreground="Black" FontFamily="Calibri Bold" Height="30"  Grid.Column="1" Click="Add_book_Click" />
+
+                <Button x:Name="btnclear_all" Background="LightCyan"  Content="Clear" BorderThickness="0,0,0,1" FontSize="16" Margin="190,-30,0,0"  Foreground="Black" FontFamily="Calibri Bold" Height="30"   Grid.Column="1" Click="btnclear_all_Click"   />
+
+                <Button x:Name="btncBackTOLibrary" Background="LightCyan"  Content="Back" BorderThickness="0,0,0,1" FontSize="16" Margin="90,20,90,0"   Foreground="Black" FontFamily="Calibri Bold" Height="30"   Grid.Column="1" Click="btncBackTOLibrary_Click"    />
+
+
+
+            </StackPanel>
+
+        </Border>
+    </Border>
+
+</Window>
